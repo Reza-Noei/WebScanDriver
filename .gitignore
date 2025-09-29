@@ -45,8 +45,6 @@ _ReSharper*/
 *.DotSettings.user
 
 # WPF specific
-*.g.cs
-*.g.i.cs
 *.xaml.cs
 
 # Service related (if any logs/configs you don't want)
